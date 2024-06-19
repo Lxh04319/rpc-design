@@ -11,6 +11,8 @@
     <url>http://maven.apache.org</url>
     <modules>
         <module>consumer</module>
+        <module>provider</module>
+        <module>provider-api</module>
     </modules>
     <!--    <modules>-->
 <!--        <module>consumer</module>-->
