@@ -109,6 +109,24 @@
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-api</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.Lxh04319</groupId>
+            <artifactId>rpc-util</artifactId>
+            <version>3.0-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.Lxh04319</groupId>
+            <artifactId>rpc-util</artifactId>
+            <version>3.0-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.alibaba.nacos</groupId>
+            <artifactId>nacos-api</artifactId>
+            <version>1.4.2</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
 
     <build>
