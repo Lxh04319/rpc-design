@@ -14,7 +14,7 @@
     <dependencies>
         <dependency>
             <groupId>com.Lxh04319</groupId>
-            <artifactId>rpc-core</artifactId>
+            <artifactId>rpc</artifactId>
             <version>${project.version}</version>
         </dependency>
         <dependency>
