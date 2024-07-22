@@ -8,7 +8,7 @@ import java.util.Map;
 import java.util.concurrent.*;
 
 /**
- * 创建 ThreadPool(线程池) 的工具类. 来自JavaGuide
+ * 创建 ThreadPool(线程池) 的工具类
  */
 public class ThreadPoolFactory {
     /**
